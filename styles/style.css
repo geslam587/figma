@@ -1,0 +1,31 @@
+@import url(components/nav.css);
+@import url(components/sec2.css);
+@import url(components/sec3.css);
+@import url(components/sec4.css);
+@import url(components/sec5.css);
+@import url(components/sec6.css);
+@import url(components/sec7.css);
+@import url(components/fotter.css);
+
+body{
+    background-color: #eee;
+    overflow-x: hidden;
+    overflow-y: auto; 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    }
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none; 
+    font-family: sans-serif;
+    list-style-type: none; 
+    user-select: none;
+}
+/* .nav{
+    background-color: black;
+} */
