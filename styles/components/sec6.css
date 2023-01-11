@@ -1,0 +1,100 @@
+
+.section6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 95px 80px;
+    gap: 20px;
+    width: 1440px;
+    height: 650px;
+    position: relative;
+    top: 100px;
+    background-color: #F9FAFB;
+    
+}
+.section6 .content{
+    display: flex;  
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+    width: 1216px;
+    height: 354.29px;
+}
+.section6 .content .head{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    gap: 10px;
+    width: 167px;
+    height: 34.29px;
+}
+.section6 .content .head img{
+    width: 34px;
+    height: 24.29px;
+}
+.section6 .content .head p{
+    width: 103px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #101828;
+}
+.section6 .content .courses{
+    width: 1116px;
+    height: 120px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+
+}
+
+.section6 .content .jacop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+    width: 1216px;
+    height: 136px;
+}
+
+.section6 .content .jacop img{
+    width: 64px;
+    height: 64px;
+}
+
+.section6 .content .jacop .name  {
+    width: 1216px;
+    height: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #101828;
+
+}   
+.section6 .content .jacop .discription  {
+    width: 1216px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #667085;
+}

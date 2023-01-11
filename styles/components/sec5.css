@@ -1,0 +1,148 @@
+
+
+.section5{
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+    width: 1440px;
+    height: 700px;
+    background-color: #fff;
+}
+.section5 .top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 20px;
+    margin-top: 90px;
+    width: 768px;
+    height: 160px;
+}
+.section5 .top .tutors{
+    width: 768px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #6941C6;
+
+}
+.section5 .top .meet  {
+        
+    width: 768px;
+    height: 44px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+.section5 .top .circle  {    
+    width: 768px;
+    height: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #667085;
+}
+
+.section5 .cards{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+    width: 1200px;
+    height: 340px;
+}
+
+.section5 .cards .card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    width: 276px;
+    height: 340px;
+    background: #F9FAFB;
+    position: relative;
+}
+
+.section5 .cards .card .avatar{
+    padding: 0px;
+    width: 80px;
+    height: 80px;
+    background: url(.png);
+    border-radius: 40px;
+}
+.section5 .cards .card .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+    margin-top: 20px;
+    width: 228px;
+    height: 192px;
+}
+.section5 .cards .card .text .name{
+    width: 228px;
+    height: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #101828;
+    
+}
+
+.section5 .cards .card .text .jop{
+    width: 228px;
+    height: 48px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #6941C6;
+    padding: 5px;
+
+}
+.section5 .cards .card .text .detels{
+    width: 228px;
+    height: 72px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #667085;
+}
+
+.section5 .cards .card .social{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 228px;
+height: 20px;
+}
