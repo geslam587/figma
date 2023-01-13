@@ -6,61 +6,56 @@ export default function nav() {
         class:"nav",
         children:[
             comket.div({
-                class:"circle",
+                class:"content",
                 children:[
-                    comket.div({
-                        class:"circles",
+                     comket.div({
+                        class:"left",
                         children:[
-                            comket.img({class:"light", src:"../../media/Ellipse 1.png ",}),
-                            comket.img({class:"blur", src:"../../media/Ellipse 3.png "}),
+                            comket.div({
+                                class:"search",
+                                children:[
+                                    comket.div({
+                                        class:"EdCircle",
+                                        children:[
+                                            comket.img({src:"../../media/circle1.svg"}),
+                                            comket.p({text:"Ed-Circle."})
+                                        ]
+                                    }),
+                                    comket.div({
+                                        class:"learn",
+                                        children:[
+                                            comket.img({class:"sea",src:"../../media/search.svg"}),
+                                            comket.input({type:"text",placeholder:'Want to learn?'}),
+                                            comket.div({
+                                                class:"explore",
+                                                children:[
+                                                    comket.p({text:"Explore"}),
+                                                    comket.img({ class:"arr",src:'../../media/downArrow.png'})
+                                                ]
+                                            })
+                                    ]
+                                }),
+                                ]
+                            }),
+                            comket.div({
+                                class:'text',
+                                children:[
+                                    comket.span({text:"Program"}),
+                                    comket.span({text:"Enterprise"}),
+                                    comket.span({text:"Universities"}),
+                                ]
+                            }),
                         ]
-                    }),
-                    comket.span({text:"Ed-Circle."})
-                ]
-            }),
-            comket.div({
-                class:"searsh",
-                children:[
-                    comket.div({
-                        class:"learn",
+                     }),
+                     comket.div({
+                        class:'right',
                         children:[
-                            comket.img({
-                                src:"../../media/Icon.png"
-                            }),
-                            comket.span({
-                                text:"Want to learn?"
-                            })
+                            comket.p({text:"Sign in"}),
+                            comket.button({text:"Create free account"})
                         ]
-                    }),
-                    comket.div({
-                        class:"explor",
-                        children:[
-                            comket.span({
-                                text:"Explore"
-                            }),
-                            comket.img({
-                                src:"../../media/downArrow.png"
-                            }),
-                        ]
-                    }),
+                     }),
                 ]
-            }),
-            comket.div({
-                class:"program",
-                children:[
-                    comket.span({ text:"Program"}),
-                    comket.span({ text:"Enterprise"}),
-                    comket.span({ text:"Universities"}),
-                ]
-
-            }),
-            comket.div({
-                class:"right",
-                children:[
-                    comket.p({ text:" sing in"}),
-                    comket.button({text:"Create free account"})
-                ]
-            }),
+            })
         ]
         
     })
