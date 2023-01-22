@@ -17,20 +17,20 @@ export default function nav() {
                                     comket.div({
                                         class:"EdCircle",
                                         children:[
-                                            comket.img({src:"../../media/circle1.svg"}),
+                                            comket.img({src:"./media/circle1.svg"}),
                                             comket.p({text:"Ed-Circle."})
                                         ]
                                     }),
                                     comket.div({
                                         class:"learn",
                                         children:[
-                                            comket.img({class:"sea",src:"../../media/search.svg"}),
+                                            comket.img({class:"sea",src:"./media/search.svg"}),
                                             comket.input({type:"text",placeholder:'Want to learn?'}),
                                             comket.div({
                                                 class:"explore",
                                                 children:[
                                                     comket.p({text:"Explore"}),
-                                                    comket.img({ class:"arr",src:'../../media/downArrow.png'})
+                                                    comket.img({ class:"arr",src:'./media/downArrow.png'})
                                                 ]
                                             })
                                     ]

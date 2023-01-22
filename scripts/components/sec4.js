@@ -19,7 +19,7 @@ export default function sec4() {
                     comket.div({ 
                         class:"top",
                         children:[
-                            comket.img({src:"../../media/figma.png"}),
+                            comket.img({src:"./media/figma.png"}),
                             // comket.div({})
                         ]
                     }),
@@ -29,14 +29,14 @@ export default function sec4() {
                             comket.div({class:"title",
                                 children:[
                                     comket.p({text:"Figma UI UX Design"}),
-                                    comket.img({src:"../../media/up.png"})
+                                    comket.img({src:"./media/up.png"})
                                 ]
                                 }),
                             comket.p({class:"detels", text:"Use Figma to get a job in UI Design, User Interface, User Experience design."}),
-                            comket.img({class:"rate", src:"../../media/rate.png"}),
+                            comket.img({class:"rate", src:"./media/rate.png"}),
                             comket.div({class:"profile",
                                 children:[
-                                    comket.img({src:"../../media/Jane.svg"}),
+                                    comket.img({src:"./media/Jane.svg"}),
                                     comket.div({children:[
                                         comket.p({class:"name", text:"Jane Cooper"}),
                                         comket.p({class:"enrolled", text:"Enrolled"})
@@ -53,7 +53,7 @@ export default function sec4() {
                     comket.div({ 
                         class:"top",
                         children:[
-                            comket.img({src:"../../media/learn.png"}),
+                            comket.img({src:"./media/learn.png"}),
                             comket.div({})
                         ]
                     }),
@@ -63,14 +63,14 @@ export default function sec4() {
                             comket.div({class:"title",
                                 children:[
                                     comket.p({text:"Learn With Shoaib"}),
-                                    comket.img({src:"../../media/up.png"})
+                                    comket.img({src:"./media/up.png"})
                                 ]
                                 }),
                             comket.p({class:"detels", text:"Use Figma to get a job in UI Design, User Interface, User Experience design."}),
-                            comket.img({class:"rate", src:"../../media/rate.png"}),
+                            comket.img({class:"rate", src:"./media/rate.png"}),
                             comket.div({class:"profile",
                                 children:[
-                                    comket.img({src:"../../media/Jenny.svg"}),
+                                    comket.img({src:"./media/Jenny.svg"}),
                                     comket.div({children:[
                                         comket.p({class:"name", text:"Jenny Wilson"}),
                                         comket.p({class:"enrolled", text:"Enrolled"})
@@ -87,7 +87,7 @@ export default function sec4() {
                     comket.div({ 
                         class:"top",
                         children:[
-                            comket.img({src:"../../media/building.png"}),
+                            comket.img({src:"./media/building.png"}),
                             comket.div({})
                         ]
                     }),
@@ -97,14 +97,14 @@ export default function sec4() {
                             comket.div({class:"title",
                                 children:[
                                     comket.p({text:"Building User Interface."}),
-                                    comket.img({src:"../../media/up.png"})
+                                    comket.img({src:"./media/up.png"})
                                 ]
                                 }),
                             comket.p({class:"detels", text:"Use Figma to get a job in UI Design, User Interface, User Experience design."}),
-                            comket.img({class:"rate", src:"../../media/rate.png"}),
+                            comket.img({class:"rate", src:"./media/rate.png"}),
                             comket.div({class:"profile",
                                 children:[
-                                    comket.img({src:"../../media/Esther.svg"}),
+                                    comket.img({src:"./media/Esther.svg"}),
                                     comket.div({children:[
                                         comket.p({class:"name", text:"Esther Howard"}),
                                         comket.p({class:"enrolled", text:"Enrolled"})

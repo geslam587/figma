@@ -17,7 +17,7 @@ export default function fotter() {
                                 comket.div({
                                     class:"circle",
                                     children:[
-                                        comket.img({src:"../../media/circle1.svg"}),
+                                        comket.img({src:"./media/circle1.svg"}),
                                         comket.span({text:"Ed-Circle."})
                                     ]
                                 }),
@@ -80,7 +80,7 @@ export default function fotter() {
                         class:'content',
                         children:[
                             comket.p({text:"© 2022 Ed-Circle. All rights reserved."}),
-                            comket.img({src:'../../media/Social icons.svg'})
+                            comket.img({src:'./media/Social icons.svg'})
                         ]
                     }),
                 ]

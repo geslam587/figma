@@ -7,6 +7,7 @@
     background-color: #fff;
     position: relative;
     top: 100px;
+    font-family: sans-serif;
 }
 .section7 .content{
     display: flex;
@@ -17,7 +18,7 @@
     height: 510px;
 }
 .section7 .content .top{
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
@@ -74,7 +75,7 @@
 .section7 .content .bottom .left .uper .text  .date{
     width: 248px;
     height: 20px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -83,7 +84,7 @@
 }
 .section7 .content .bottom .left .uper .text  .title{
     margin-top: 12px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -95,7 +96,7 @@
 .section7 .content .bottom .left .uper .text  .detels{
     width: 242px;
     height: 72px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -113,7 +114,7 @@
     margin-top: 6px;
 }
 .section7 .content .bottom .left .uper .research .Research{
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -132,7 +133,7 @@
     width: 60px;
     height: 24px;
     border-radius: 16px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -173,7 +174,7 @@
 .section7 .content .bottom .left .down .text  .date{
     width: 248px;
     height: 20px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -181,7 +182,7 @@
     color: #6941C6;
 }
 .section7 .content .bottom .left .down .text  .title{
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -193,7 +194,7 @@
     margin-top: 8px;
     width: 210px;
     height: 72px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -211,7 +212,7 @@
     margin: 24px;
 }
 .section7 .content .bottom .left .down .research .Research{
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -230,7 +231,7 @@
     width: 60px;
     height: 24px;
     border-radius: 16px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -279,7 +280,7 @@
 .section7 .content .bottom .right .down .development .marsh{
     width: 592px;
     height: 20px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -288,7 +289,7 @@
 }
 
 .section7 .content .bottom .right .down .development .agile{
-    font-family: 'Inter';
+    font-family:sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
@@ -298,7 +299,7 @@
 .section7 .content .bottom .right .down .development .detels{
     width: 592px;
     height: 48px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -320,7 +321,7 @@
 .section7 .content .bottom .right .down .programming p{
     width: 90px;
     height: 20px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;

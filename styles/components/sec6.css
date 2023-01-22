@@ -10,7 +10,7 @@
     position: relative;
     top: 100px;
     background-color: #F9FAFB;
-    
+    font-family: sans-serif;
 }
 .section6 .content{
     display: flex;  
@@ -38,7 +38,7 @@
 .section6 .content .head p{
     width: 103px;
     height: 24px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 20px;
@@ -49,7 +49,7 @@
 .section6 .content .courses{
     width: 1116px;
     height: 120px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 48px;
@@ -78,7 +78,7 @@
 .section6 .content .jacop .name  {
     width: 1216px;
     height: 28px;
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -90,7 +90,7 @@
 .section6 .content .jacop .discription  {
     width: 1216px;
     height: 24px;
-    font-family: 'Inter';
+    font-family:sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;

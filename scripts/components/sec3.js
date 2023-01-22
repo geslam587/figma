@@ -25,7 +25,7 @@ export default function sec3() {
                     comket.div({class:"learn",
                             children:[
                                 comket.p({text:"Learn More"}),
-                                comket.img({src:"../../media/wiarrow.png"})
+                                comket.img({src:"./media/wiarrow.png"})
                             ]   
                         })
                 ]
@@ -43,7 +43,7 @@ export default function sec3() {
                     comket.div({class:"learn",
                             children:[
                                 comket.p({text:"Learn More"}),
-                                comket.img({src:"../../media/arrow.png"})
+                                comket.img({src:"./media/arrow.png"})
                             ]   
                         })
                 ]
@@ -60,7 +60,7 @@ export default function sec3() {
                     comket.div({class:"learn",
                             children:[
                                 comket.p({text:"Learn More"}),
-                                comket.img({src:"../../media/arrow.png"})
+                                comket.img({src:"./media/arrow.png"})
                             ]   
                         })
                 ]

@@ -52,19 +52,19 @@ export default function sec2() {
                                 children:[
                                         comket.div({class:"buplic",
                                     children:[
-                                        comket.img({src:"../../media/public.png"}),
+                                        comket.img({src:"./media/public.png"}),
                                     comket.span({ text:"Public Speaking",})
                                     ]
                                     }),
                                         comket.div({class:"buplic",
                                     children:[
-                                        comket.img({src:"../../media/career.png"}),
+                                        comket.img({src:"./media/career.png"}),
                                     comket.span({ text:"Career-Oriented",})
                                     ]
                                     }),
                                         comket.div({class:"buplic",
                                     children:[
-                                        comket.img({src:"../../media/creativ.png"}),
+                                        comket.img({src:"./media/creativ.png"}),
                                     comket.span({ text:"Creative Thinking",})
                                     ]
                                     })
@@ -80,7 +80,7 @@ export default function sec2() {
                                 children:[
                                     comket.div({
                                         children:[
-                                        comket.img({src:"../../media/young-student-woman.png"})]}),
+                                        comket.img({src:"./media/young-student-woman.png"})]}),
                                         comket.div({class:"impety"}),
                                 ]
                             }),
@@ -100,7 +100,7 @@ export default function sec2() {
                             comket.div({
                                 class:"online",
                                 children:[
-                                    comket.img({class:"circl", src:"../../media/line.png" }),
+                                    comket.img({class:"circl", src:"./media/line.png" }),
                                     comket.div({class:"light"}),
                                     comket.h3({text:"5k+"}),
                                     comket.p({text:"Online Courses"})
@@ -132,10 +132,10 @@ export default function sec2() {
                     comket.p({text:"collaboration"}),
                 ]
                 }),
-                    comket.img({class:"duolingo",src:"../../media/duo.png" }),
-                    comket.img({class:"codecov", src:"../../media/cod.png"}),
-                    comket.img({class:"user", src:"../../media/duo.png"}),
-                    comket.img({class:"magic", src:"../../media/magic.png"}),
+                    comket.img({class:"duolingo",src:"./media/duo.png" }),
+                    comket.img({class:"codecov", src:"./media/cod.png"}),
+                    comket.img({class:"user", src:"./media/duo.png"}),
+                    comket.img({class:"magic", src:"./media/magic.png"}),
                 ]
 
             })

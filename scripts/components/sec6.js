@@ -10,7 +10,7 @@ export default function sec6() {
                 children:[
                     comket.div({ class:"head",
                     children:[
-                        comket.img({src:"../../media/circle.svg"}),
+                        comket.img({src:"./media/circle.svg"}),
                         comket.p({class:"title", text:"Ed-Circle."})
                     ]
                 }),
@@ -18,7 +18,7 @@ export default function sec6() {
                 comket.div({
                     class:"jacop",
                     children:[
-                        comket.img({src:"../../media/jacop.svg"}),
+                        comket.img({src:"./media/jacop.svg"}),
                         comket.p({ class:"name", text:"Jacob Jones"}),
                         comket.p({ class:"discription", text:"Student, National University"}),
                     ]

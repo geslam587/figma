@@ -20,7 +20,7 @@ export default function sec7() {
                         comket.div({
                           class:"uper",
                           children:[
-                            comket.img({src:"../../media/leftuper7.svg"}),
+                            comket.img({src:"./media/leftuper7.svg"}),
                             comket.div({
                               class:"text",
                               children:[
@@ -44,7 +44,7 @@ export default function sec7() {
                           comket.div({
                             class:"down",
                             children:[
-                              comket.img({src:"../../media/leftdown7.svg"}),
+                              comket.img({src:"./media/leftdown7.svg"}),
                               comket.div({ 
                                 class:"text",
                                 children:[
@@ -70,7 +70,7 @@ export default function sec7() {
                     comket.div({
                       class:"right",
                       children:[
-                        comket.img({src:"../../media/right7.svg"}),
+                        comket.img({src:"./media/right7.svg"}),
                         comket.div({
                           class:"down",
                           children:[
